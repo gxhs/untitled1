@@ -7,8 +7,28 @@
           <element id="module-output" name="untitled1" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="Spring-4.3.16.RELEASE" />
-          <element id="library" level="project" name="Spring MVC-4.3.16.RELEASE" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../untitled1/lib/aopalliance-1.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../untitled1/lib/commons-logging-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../untitled1/lib/spring-aop-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../untitled1/lib/spring-aspects-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../untitled1/lib/spring-beans-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../untitled1/lib/spring-context-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../untitled1/lib/spring-context-support-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../untitled1/lib/spring-core-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../untitled1/lib/spring-expression-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../untitled1/lib/spring-instrument-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../untitled1/lib/spring-instrument-tomcat-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../untitled1/lib/spring-jdbc-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../untitled1/lib/spring-jms-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../untitled1/lib/spring-messaging-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../untitled1/lib/spring-orm-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../untitled1/lib/spring-oxm-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../untitled1/lib/spring-test-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../untitled1/lib/spring-tx-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../untitled1/lib/spring-web-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../untitled1/lib/spring-webmvc-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../untitled1/lib/spring-webmvc-portlet-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../untitled1/lib/spring-websocket-4.3.16.RELEASE.jar" />
         </element>
       </element>
       <element id="javaee-facet-resources" facet="untitled1/web/Web" />

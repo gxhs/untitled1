@@ -15,6 +15,6 @@
   <input type="text" name="text">
   <input type="submit">
 </form>
-  你好
+  你好吗
   </body>
 </html>
